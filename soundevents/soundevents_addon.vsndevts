@@ -21,6 +21,19 @@
 	 vsnd_files_track_01 = "sounds/interior_01.vsnd"
    }
 
+   "platypus.machine.electrical_hum_01" = {
+       	 type = "csgo_mega"
+	 vsnd_files_track_01 = "sounds/machine/electrical_hum.vsnd"
+         volume = 0.5
+         pitch = 0.5
+   }
+
+   "platypus.medical.healing_01" = {
+       	 type = "csgo_mega"
+	 vsnd_files_track_01 = "sounds/medical/healing_01.vsnd"
+         volume = 0.5
+   }
+
    "platypus.vent_ambience_01" = {
          type = "csgo_mega"
          vsnd_files_track_01 = "sounds/vent_01.vsnd"
