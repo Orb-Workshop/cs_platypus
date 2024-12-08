@@ -6,6 +6,14 @@
    "platypus.shrine.latin_demon" = {
 	 type = "csgo_mega"
 	 vsnd_files_track_01 = "sounds/shrine/shrine_whispers.vsnd"
+         distance_volume_mapping_curve =
+        [
+            [ 0, 2, 0, 0, 2, 3, ],
+            [ 150, 1.0, 0, 0, 2, 3, ],
+            [ 300, 0.1, 0, 0, 2, 3, ],
+            [ 600, 0.01, 0, 0, 2, 3, ],
+            [ 800, 0, 0, 0, 2, 3, ],
+        ]
    }
 
    "platypus.interior_01" = {
