@@ -2,7 +2,6 @@
 {
 
 
-
    "platypus.shrine.latin_demon" = {
 	 type = "csgo_mega"
 	 vsnd_files_track_01 = "sounds/shrine/shrine_whispers.vsnd"
@@ -98,6 +97,20 @@
          type = "csgo_mega"
          vsnd_files_track_01 = "sounds/machine/stationary_truck_1.vsnd"
    }
+
+   "platypus.chime.reception_bell_chime" = {
+         type = "csgo_mega"
+         vsnd_files_track_01 = "sounds/chime/reception_bell_chime.vsnd"
+   }
+
+   "platypus.warning.warning_buzzer" = {
+         type = "csgo_mega"
+         vsnd_files_track_01 = "sounds/warning/warning_buzzer.vsnd"
+   }
+
+
+
+
 
 // For soundevents to compile into the addon, this file must be kept named as soundevents_addon.vsndevts and all new soundevents should be added to this file. 
 
