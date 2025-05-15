@@ -145,8 +145,18 @@
         ]
    }
 
-
-
+   "platypus.teleport.alien_teleport" = {
+         type = "csgo_mega"
+         vsnd_files_track_01 = "sounds/teleport/alien_teleport.vsnd"
+         distance_volume_mapping_curve =
+        [
+            [ 0,   0.5,  0, 2, 3, ],
+            [ 150, 0.3,  0, 0, 2, 3, ],
+            [ 300, 0.1,  0, 0, 2, 3, ],
+            [ 600, 0.01, 0, 0, 2, 3, ],
+            [1200, 0, 0, 0, 2, 3, ],
+        ]
+   }
 
 
 // For soundevents to compile into the addon, this file must be kept named as soundevents_addon.vsndevts and all new soundevents should be added to this file. 
