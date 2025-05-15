@@ -91,6 +91,14 @@
    "platypus.ambience.hum_refrigerator" = {
          type = "csgo_mega"
          vsnd_files_track_01 = "sounds/machine/refrigerator_hum_ambience.vsnd"
+         distance_volume_mapping_curve =
+        [
+            [ 0, 1, 0, 0, 2, 3, ],
+            [ 150, 0.8, 0, 0, 2, 3, ],
+            [ 300, 0.1, 0, 0, 2, 3, ],
+            [ 600, 0.01, 0, 0, 2, 3, ],
+            [1200, 0, 0, 0, 2, 3, ],
+        ]
    }
 
    "platypus.machine.stationary_truck" = {
