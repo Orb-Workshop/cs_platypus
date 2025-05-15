@@ -103,11 +103,24 @@
          vsnd_files_track_01 = "sounds/chime/reception_bell_chime.vsnd"
          distance_volume_mapping_curve =
         [
+            [   0, 0.7,   0, 0, 2, 3, ],
+            [ 150, 0.4,   0, 0, 2, 3, ],
+            [ 300, 0.1,   0, 0, 2, 3, ],
+            [ 600, 0.007, 0, 0, 2, 3, ],
+            [1200, 0,     0, 0, 2, 3, ],
+        ]
+   }
+
+   "platypus.chime.cs_accept_sound" = {
+         type = "csgo_mega"
+         vsnd_files_track_01 = "sounds/chime/cs_accept_sound.vsnd"
+         distance_volume_mapping_curve =
+        [
             [ 0, 1, 0, 0, 2, 3, ],
             [ 150, 0.8, 0, 0, 2, 3, ],
             [ 300, 0.1, 0, 0, 2, 3, ],
             [ 600, 0.01, 0, 0, 2, 3, ],
-            [1200, 0, 0, 0, 2, 3, ],
+            [ 800, 0, 0, 0, 2, 3, ],
         ]
    }
 
