@@ -1,0 +1,23 @@
+/*
+  Hardcore Tech - Bank Management Script
+
+  - Team-based Bank Account
+    - Ts
+    - CTs
+
+  - Swaps the Bank Balances at intermission.
+
+  - Teammates can Deposit/Withdraw funds from Bank
+
+  - Stonks
+    - Bork Coin
+    - Scrapples
+  
+    - Buy/Sell, Very Volatile Per Round.
+
+  - Long Term Investments
+
+  - 
+
+ */
+import { Instance } from "serverpointentity"
