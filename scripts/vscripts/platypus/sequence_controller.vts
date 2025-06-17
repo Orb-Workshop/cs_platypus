@@ -1,0 +1,171 @@
+import { Instance } from "serverpointentity"
+
+function Dump(obj,name=""){
+	Instance.Msg("Dump "+name+":")
+	Instance.Msg(JSON.stringify(Object.keys(obj)))
+	Instance.Msg(JSON.stringify(Object.getOwnPropertyNames(obj)))
+}
+
+function ERR(msg: string): void {
+    Dump(msg);
+}
+
+const SEQUENCE_LENGTH = 4;
+const COMPLETION_TARGET_RELAY = "power_room.open_doors";
+
+function coinFlip(): boolean {
+    return (Math.random() >= 0.5);
+}
+
+function generate_random_password(): boolean[] {
+    let password = [];
+    for (var i = 0; i < SEQUENCE_LENGTH; i++) {
+        password.push(coinFlip());
+    }
+    return password;
+}
+
+function sequence_create(sequence: {successTarget: string,
+                                    failureTarget: string,
+                                    progressTargets:string[]}) {
+    return {...sequence,
+            password: generate_random_password(),
+            success: 0,
+            };
+}
+
+let sequences = [
+    sequence_create({
+        successTarget: "power_room.sequence1_light_success4",
+        failureTarget: "power_room.sequence1_light_failure",
+        progressTargets: [
+            "power_room.sequence1_light_success1",
+            "power_room.sequence1_light_success2",
+            "power_room.sequence1_light_success3",
+    ]}),
+    sequence_create({
+        successTarget: "power_room.sequence2_light_success4",
+        failureTarget: "power_room.sequence2_light_failure",
+        progressTargets: [
+            "power_room.sequence2_light_success1",
+            "power_room.sequence2_light_success2",
+            "power_room.sequence2_light_success3",
+    ]}),
+    sequence_create({
+        successTarget: "power_room.sequence3_light_success4",
+        failureTarget: "power_room.sequence3_light_failure",
+        progressTargets: [
+            "power_room.sequence3_light_success1",
+            "power_room.sequence3_light_success2",
+            "power_room.sequence3_light_success3",
+    ]}),
+];
+
+function CHK_IDX(index: number): boolean {
+    if (index < 0 || index >= sequences.length) {
+        ERR("Wrong Index: " + index);
+        return false;
+    }
+    return true;
+}
+
+Dump(sequences);
+
+function sequence_check_completion() {
+    let numFailures = sequences.filter((sequence) => {
+        return (sequence.success != SEQUENCE_LENGTH);
+    });
+    if (numFailures.length == 0) {
+        Dump("Complete! " + COMPLETION_TARGET_RELAY);
+	Instance.EntFireBroadcast(COMPLETION_TARGET_RELAY, "trigger");
+    }
+}
+
+function sequence_input(index: number, value: boolean): void {
+    if (!CHK_IDX(index)) return;
+    let sequence = sequences[index];
+    // Password Complete
+    if (sequence.success >= SEQUENCE_LENGTH) return;
+    // Success
+    if (sequence.password[sequence.success] == value) {
+        sequence.success += 1;
+    }
+    // Failure
+    else {
+        sequence.success =  0;
+    }
+    sequence_check_completion();
+}
+
+function turnOffLight(target: string) {
+    Instance.Msg("Turning Off Light... " + target);
+    Instance.EntFireBroadcast(target, "skin", 0);
+}
+
+function turnOnLight(target: string) {
+    Instance.Msg("Turning On Light... " + target);
+    Instance.EntFireBroadcast(target, "skin", 1);
+}
+
+function sequence_check_completion() {
+    let numFailures = sequences.filter((sequence) => {
+        return (sequence.success != SEQUENCE_LENGTH);
+    });
+    if (numFailures.length == 0) {
+        Dump("Complete! " + COMPLETION_TARGET_RELAY);
+    }
+}
+
+function sequence_clear_lights(index: number) {
+    if (!CHK_IDX(index)) return;
+    let sequence = sequences[index];
+    turnOffLight(sequence.successTarget);
+    turnOffLight(sequence.failureTarget);
+    sequence.progressTargets.forEach((target) => {
+        turnOffLight(target);
+    });
+}
+
+function sequence_handle_lights(index: number) {
+    if (!CHK_IDX(index)) return;
+    let sequence = sequences[index];
+    sequence_clear_lights(index);
+    if (sequence.success == 0) {
+        turnOnLight(sequence.failureTarget);
+    }
+    else if (sequence.success >= SEQUENCE_LENGTH) {
+        turnOnLight(sequence.successTarget); // Success Light
+    }
+    else {
+        for (let i = 0; i <= sequence.success-1; i++) {
+            turnOnLight(sequence.progressTargets[i]);
+        }
+    }
+}
+
+function sequence_reset() {
+    sequences.forEach((sequence, index) => {
+	sequence.password = generate_random_password();
+	sequence.success = 0;
+	sequence_handle_lights(index);
+    });
+}
+
+Instance.PublicMethod("EnterUp", (id) => {
+    let index: number = parseInt(id);
+    sequence_input(index, true);
+});
+
+Instance.PublicMethod("EnterDown", (id) => {
+    let index: number = parseInt(id);
+    sequence_input(index, false);
+});
+
+Instance.PublicMethod("Reset", () => {
+    sequence_reset();
+});
+
+Instance.InitialActivate(() => {
+    Instance.Msg("Platypus: Sequence Controller Activated!");
+    Dump(sequences);
+});
