@@ -1,0 +1,96 @@
+/*
+  Hardcore Tech - Bank Management Script
+
+  - Team-based Bank Account
+    - Ts
+    - CTs
+
+  - Swaps the Bank Balances at intermission.
+
+  - Teammates can Deposit/Withdraw funds from Bank
+
+  - Stonks
+    - Bork Coin
+    - Scrapples
+  
+    - Buy/Sell, Very Volatile Per Round.
+
+  - Long Term Investments
+
+  - 
+
+ */
+import { Instance } from "cspointscript"
+
+let TeamBalance = [0.0, 0.0]; // [Team T, Team CT]
+
+function DepositT(amount) {
+    TeamBalance[0] += amount;
+}
+
+function DepositCT(amount) {
+    TeamBalance[1] += amount;
+}
+
+function WithdrawT(amount) {
+    if (TeamBalance[0] < amount) return;
+    TeamBalance[0] -= amount;
+}
+
+function WithdrawCT(amount) {
+    if (TeamBalance[1] < amount) return;
+    TeamBalance[1] -= amount;
+}
+
+function Intermission() {
+    //Swap Team Balances
+    let tmp = TeamBalance[0];
+    TeamBalance[0] = TeamBalance[1];
+    Teambalance[1] = tmp;
+}
+
+function Reset() {
+    TeamBalance = [0,0];
+}
+
+
+
+
+
+Instance.InitialActivate(() => {
+    Instance.Msg("Bank Manager Initialized!");
+});
+
+Instance.PublicMethod("Deposit_T",/*number*/ (num) => {
+    DepositT(num);
+});
+
+Instance.PublicMethod("Deposit_CT",/*number*/ (num) => {
+    DepositCT(num);
+});
+
+Instance.PublicMethod("Withdraw_T",/*number*/ (num) => {
+    WithdrawT(num);
+});
+
+Instance.PublicMethod("Withdraw_CT",/*number*/ (num) => {
+    WithdrawCT(num);
+});
+
+Instance.PublicMethod("Intermission", () => {
+    Intermission();
+});
+
+Instance.PublicMethod("Reset", () => {
+    Reset();
+});
+
+Instance.PublicMethod("LabelValue_T", /*string*/ (text) => {
+    let target = text;
+    Instance.EntFireBroadcast(target, "SetMessage", TeamBalance[0]);
+});
+
+Instance.PublicMethod("LabelValue_CT", /*string*/ (text) => {
+    let target = text;
+    Instance.EntFireBroadcast(target, "SetMessage", TeamBalance[1]);
+});

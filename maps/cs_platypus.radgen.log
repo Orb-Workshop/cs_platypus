@@ -8984,3 +8984,3648 @@ If you'd like to support us, you can do so here:
 https://ko-fi.com/radgen
 
 Thanks, and enjoy!
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 01/01/0001 00:00:00
+
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.1
+
+Checking VMAP cache
+Something has changed or this is the first build, rebuilding cache...
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ cs_platypus
+
+** Argument: -vmapname
+ cs_platypus
+
+
+---- Game Configuration Values ----
+addon name: cs_platypus
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\cs_platypus.vmap
+vmap Name: cs_platypus
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <2406, -644, 56>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, 308>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, 212>
+Processing entity: RadGenDivider, at <-1561.09, 128, 204>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, 196>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, -256>
+Processing entity: RadGenConfig, at <-1557.5652, 112, -156.49449>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, -48>
+Processing entity: RadGenDivider, at <-1561.09, 128, -40>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, -32>
+Processing entity: Buyzone, at <2144, -144, 112>
+Processing entity: Buyzone, at <-1696, -194, -176>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Path, at <-1696, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <1600, -32, -192>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-56, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-64, -608, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <-1312, -640, -128>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-224, -1168, 0>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <576.0001, 352, 288>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1588, 24, -4>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <56, 224, 136>
+Processing mesh: Path, at <-264, 256, 36>
+Processing mesh: Path, at <480.00012, -608, -32>
+Processing mesh: Path, at <984, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <256, -1088, 128>
+Processing mesh: Path, at <72, -1144, 232>
+Processing mesh: Path, at <-64, -680, 204>
+Processing mesh: Path, at <-64, -640, 104>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <1040, -64, 200>
+Processing mesh: Path, at <1248, 0, 128>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-220, 348, -160>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <384, 64, 184>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <872, 104, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <664, -32, 216>
+Processing mesh: Path, at <1024, -288, 216>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Cover, at <1606, -448, 88>
+Processing mesh: Cover, at <1224, -569.99976, 20.000015>
+Processing mesh: Cover, at <1616, 296, 60>
+Processing mesh: Cover, at <1672, 296, 52>
+Processing mesh: Cover, at <1712, 304, 58>
+Processing mesh: Cover, at <1801.3727, 279.02942, 58>
+Processing mesh: Cover, at <1864, 296, 52>
+Processing mesh: Cover, at <1860, 244, 80>
+Processing mesh: Cover, at <1548, 484, 72>
+Processing mesh: Cover, at <1248, 656, 52>
+Processing mesh: Cover, at <1252, 520, 52>
+Processing mesh: Cover, at <1252, 464, 60>
+Processing mesh: Cover, at <768, 256, 24>
+Processing mesh: Cover, at <776, 192, 112>
+Processing mesh: Cover, at <824, 120, 96>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <372, 328, 16>
+Processing mesh: Cover, at <836, 28, 204>
+Processing mesh: Cover, at <127.86864, 349.1402, 160>
+Processing mesh: Cover, at <40, 96, 168>
+Processing mesh: Cover, at <-496, 56, 72>
+Processing mesh: Cover, at <-584, 56, 72>
+Processing mesh: Cover, at <-884, 4, 72>
+Processing mesh: Cover, at <-262, -1164, 52>
+Processing mesh: Cover, at <-298, -930, 66>
+Processing mesh: Cover, at <-4, -384, 228>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Cover, at <1034, -624, 64>
+Processing mesh: Cover, at <1968, -88, 52>
+Processing mesh: Cover, at <-1424, -784, -96>
+Processing mesh: Cover, at <496, 24, -176>
+Processing mesh: Cover, at <608, 24, -176>
+Processing mesh: Cover, at <724, 24, -176>
+Processing mesh: Cover, at <836, 24, -176>
+Processing mesh: Cover, at <156, -792, -204>
+Processing mesh: Cover, at <180, -504, -204>
+Processing mesh: Cover, at <-208, -560, -228>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-976, -496, 80>
+Processing mesh: Cover, at <208, -1584, 80>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Cover, at <384, -1504, 128>
+Processing mesh: Cover, at <288, -1456, 64>
+Processing mesh: Cover, at <704, -1360, 64>
+Processing mesh: Cover, at <880, -1460, 32>
+Processing mesh: Cover, at <932, -1390, 32>
+Processing mesh: Cover, at <926, -1310, 32>
+Processing mesh: Cover, at <846, -1262, 32>
+Processing mesh: Cover, at <-272, -1712, 32>
+Processing mesh: Cover, at <-322, -1760, 32>
+Processing mesh: Path, at <1248, -480, 128>
+Processing mesh: Path, at <704, -608, 200>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-1552, -1004, 304>
+Processing mesh: Cover, at <-1508, -1196, 304>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: RescueZone, at <2406, -644, 56>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <79, -182, -182>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-80, 536, -252>
+Processing mesh: Cover, at <-1312, -1584, 128>
+Processing mesh: Cover, at <1232, -828, 32>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+3 radar levels with a total of 193 objects
+
+Radar level 0: 
+Name: cs_platypus_radar, .txt Name: default
+Max Height: -40, Min Height: -256
+
+Radar level 1: 
+Name: cs_platypus_higher1_radar, .txt Name: higher1
+Max Height: 196.98701, Min Height: -40
+
+Radar level 2: 
+Name: cs_platypus_higher2_radar, .txt Name: higher2
+Max Height: 384, Min Height: 196.98701
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 680 triangles
+
+Drawing opaque objects
+Drawing buyzones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1152 triangles
+
+Drawing opaque objects
+Drawing buyzones
+Drawing rescue zones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 2 ----
+
+Sorting map objects within the level
+
+Radar level contains 282 triangles
+
+Drawing opaque objects
+Drawing buyzones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 06.2695 sec
+Time to read vmap from disk: 00.0007 sec
+Time to process data from vmap: 09.3960 sec
+Total processing time: 10.0341 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.1
+
+Checking VMAP cache
+VMAP cache is still valid
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ cs_platypus
+
+** Argument: -vmapname
+ cs_platypus
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: cs_platypus
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\cs_platypus.vmap
+vmap Name: cs_platypus
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <2406, -644, 56>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, 308>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, 212>
+Processing entity: RadGenDivider, at <-1561.09, 128, 204>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, 196>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, -256>
+Processing entity: RadGenConfig, at <-1557.5652, 112, -156.49449>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, -48>
+Processing entity: RadGenDivider, at <-1561.09, 128, -40>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, -32>
+Processing entity: Buyzone, at <2144, -144, 112>
+Processing entity: Buyzone, at <-1696, -194, -176>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Path, at <-1696, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <1600, -32, -192>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-56, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-64, -608, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <-1312, -640, -128>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-224, -1168, 0>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <576.0001, 352, 288>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1588, 24, -4>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <56, 224, 136>
+Processing mesh: Path, at <-264, 256, 36>
+Processing mesh: Path, at <480.00012, -608, -32>
+Processing mesh: Path, at <984, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <256, -1088, 128>
+Processing mesh: Path, at <72, -1144, 232>
+Processing mesh: Path, at <-64, -680, 204>
+Processing mesh: Path, at <-64, -640, 104>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <1040, -64, 200>
+Processing mesh: Path, at <1248, 0, 128>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-220, 348, -160>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <384, 64, 184>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <872, 104, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <664, -32, 216>
+Processing mesh: Path, at <1024, -288, 216>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Cover, at <1606, -448, 88>
+Processing mesh: Cover, at <1224, -569.99976, 20.000015>
+Processing mesh: Cover, at <1616, 296, 60>
+Processing mesh: Cover, at <1672, 296, 52>
+Processing mesh: Cover, at <1712, 304, 58>
+Processing mesh: Cover, at <1801.3727, 279.02942, 58>
+Processing mesh: Cover, at <1864, 296, 52>
+Processing mesh: Cover, at <1860, 244, 80>
+Processing mesh: Cover, at <1548, 484, 72>
+Processing mesh: Cover, at <1248, 656, 52>
+Processing mesh: Cover, at <1252, 520, 52>
+Processing mesh: Cover, at <1252, 464, 60>
+Processing mesh: Cover, at <768, 256, 24>
+Processing mesh: Cover, at <776, 192, 112>
+Processing mesh: Cover, at <824, 120, 96>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <372, 328, 16>
+Processing mesh: Cover, at <836, 28, 204>
+Processing mesh: Cover, at <127.86864, 349.1402, 160>
+Processing mesh: Cover, at <40, 96, 168>
+Processing mesh: Cover, at <-496, 56, 72>
+Processing mesh: Cover, at <-584, 56, 72>
+Processing mesh: Cover, at <-884, 4, 72>
+Processing mesh: Cover, at <-262, -1164, 52>
+Processing mesh: Cover, at <-298, -930, 66>
+Processing mesh: Cover, at <-4, -384, 228>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Cover, at <1034, -624, 64>
+Processing mesh: Cover, at <1968, -88, 52>
+Processing mesh: Cover, at <-1424, -784, -96>
+Processing mesh: Cover, at <496, 24, -176>
+Processing mesh: Cover, at <608, 24, -176>
+Processing mesh: Cover, at <724, 24, -176>
+Processing mesh: Cover, at <836, 24, -176>
+Processing mesh: Cover, at <156, -792, -204>
+Processing mesh: Cover, at <180, -504, -204>
+Processing mesh: Cover, at <-208, -560, -228>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-976, -496, 80>
+Processing mesh: Cover, at <208, -1584, 80>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Cover, at <384, -1504, 128>
+Processing mesh: Cover, at <288, -1456, 64>
+Processing mesh: Cover, at <704, -1360, 64>
+Processing mesh: Cover, at <880, -1460, 32>
+Processing mesh: Cover, at <932, -1390, 32>
+Processing mesh: Cover, at <926, -1310, 32>
+Processing mesh: Cover, at <846, -1262, 32>
+Processing mesh: Cover, at <-272, -1712, 32>
+Processing mesh: Cover, at <-322, -1760, 32>
+Processing mesh: Path, at <1248, -480, 128>
+Processing mesh: Path, at <704, -608, 200>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-1552, -1004, 304>
+Processing mesh: Cover, at <-1508, -1196, 304>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: RescueZone, at <2406, -644, 56>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <79, -182, -182>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-80, 536, -252>
+Processing mesh: Cover, at <-1312, -1584, 128>
+Processing mesh: Cover, at <1232, -828, 32>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+3 radar levels with a total of 193 objects
+
+Radar level 0: 
+Name: cs_platypus_radar, .txt Name: default
+Max Height: -40, Min Height: -256
+
+Radar level 1: 
+Name: cs_platypus_higher1_radar, .txt Name: higher1
+Max Height: 192, Min Height: -40
+
+Radar level 2: 
+Name: cs_platypus_higher2_radar, .txt Name: higher2
+Max Height: 384, Min Height: 192
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 680 triangles
+
+Drawing opaque objects
+Drawing buyzones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1152 triangles
+
+Drawing opaque objects
+Drawing buyzones
+Drawing rescue zones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 2 ----
+
+Sorting map objects within the level
+
+Radar level contains 298 triangles
+
+Drawing opaque objects
+Drawing buyzones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 04.2592 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 00.0000 sec
+Total processing time: 05.6537 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.1
+
+Checking VMAP cache
+VMAP cache is still valid
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ cs_platypus
+
+** Argument: -vmapname
+ cs_platypus
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: cs_platypus
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\cs_platypus.vmap
+vmap Name: cs_platypus
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <2406, -644, 56>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, 308>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, 212>
+Processing entity: RadGenDivider, at <-1561.09, 128, 204>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, 196>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, -256>
+Processing entity: RadGenConfig, at <-1557.5652, 112, -156.49449>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, -48>
+Processing entity: RadGenDivider, at <-1561.09, 128, -40>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, -32>
+Processing entity: Buyzone, at <2144, -144, 112>
+Processing entity: Buyzone, at <-1696, -194, -176>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Path, at <-1696, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <1600, -32, -192>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-56, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-64, -608, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <-1312, -640, -128>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-224, -1168, 0>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <576.0001, 352, 288>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1588, 24, -4>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <56, 224, 136>
+Processing mesh: Path, at <-264, 256, 36>
+Processing mesh: Path, at <480.00012, -608, -32>
+Processing mesh: Path, at <984, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <256, -1088, 128>
+Processing mesh: Path, at <72, -1144, 232>
+Processing mesh: Path, at <-64, -680, 204>
+Processing mesh: Path, at <-64, -640, 104>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <1040, -64, 200>
+Processing mesh: Path, at <1248, 0, 128>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-220, 348, -160>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <384, 64, 184>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <872, 104, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <664, -32, 216>
+Processing mesh: Path, at <1024, -288, 216>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Cover, at <1606, -448, 88>
+Processing mesh: Cover, at <1224, -569.99976, 20.000015>
+Processing mesh: Cover, at <1616, 296, 60>
+Processing mesh: Cover, at <1672, 296, 52>
+Processing mesh: Cover, at <1712, 304, 58>
+Processing mesh: Cover, at <1801.3727, 279.02942, 58>
+Processing mesh: Cover, at <1864, 296, 52>
+Processing mesh: Cover, at <1860, 244, 80>
+Processing mesh: Cover, at <1548, 484, 72>
+Processing mesh: Cover, at <1248, 656, 52>
+Processing mesh: Cover, at <1252, 520, 52>
+Processing mesh: Cover, at <1252, 464, 60>
+Processing mesh: Cover, at <768, 256, 24>
+Processing mesh: Cover, at <776, 192, 112>
+Processing mesh: Cover, at <824, 120, 96>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <372, 328, 16>
+Processing mesh: Cover, at <836, 28, 204>
+Processing mesh: Cover, at <127.86864, 349.1402, 160>
+Processing mesh: Cover, at <40, 96, 168>
+Processing mesh: Cover, at <-496, 56, 72>
+Processing mesh: Cover, at <-584, 56, 72>
+Processing mesh: Cover, at <-884, 4, 72>
+Processing mesh: Cover, at <-262, -1164, 52>
+Processing mesh: Cover, at <-298, -930, 66>
+Processing mesh: Cover, at <-4, -384, 228>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Cover, at <1034, -624, 64>
+Processing mesh: Cover, at <1968, -88, 52>
+Processing mesh: Cover, at <-1424, -784, -96>
+Processing mesh: Cover, at <496, 24, -176>
+Processing mesh: Cover, at <608, 24, -176>
+Processing mesh: Cover, at <724, 24, -176>
+Processing mesh: Cover, at <836, 24, -176>
+Processing mesh: Cover, at <156, -792, -204>
+Processing mesh: Cover, at <180, -504, -204>
+Processing mesh: Cover, at <-208, -560, -228>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-976, -496, 80>
+Processing mesh: Cover, at <208, -1584, 80>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Cover, at <384, -1504, 128>
+Processing mesh: Cover, at <288, -1456, 64>
+Processing mesh: Cover, at <704, -1360, 64>
+Processing mesh: Cover, at <880, -1460, 32>
+Processing mesh: Cover, at <932, -1390, 32>
+Processing mesh: Cover, at <926, -1310, 32>
+Processing mesh: Cover, at <846, -1262, 32>
+Processing mesh: Cover, at <-272, -1712, 32>
+Processing mesh: Cover, at <-322, -1760, 32>
+Processing mesh: Path, at <1248, -480, 128>
+Processing mesh: Path, at <704, -608, 200>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-1552, -1004, 304>
+Processing mesh: Cover, at <-1508, -1196, 304>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: RescueZone, at <2406, -644, 56>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <79, -182, -182>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-80, 536, -252>
+Processing mesh: Cover, at <-1312, -1584, 128>
+Processing mesh: Cover, at <1232, -828, 32>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+3 radar levels with a total of 193 objects
+
+Radar level 0: 
+Name: cs_platypus_radar, .txt Name: default
+Max Height: -40, Min Height: -256
+
+Radar level 1: 
+Name: cs_platypus_higher1_radar, .txt Name: higher1
+Max Height: 179.53247, Min Height: -40
+
+Radar level 2: 
+Name: cs_platypus_higher2_radar, .txt Name: higher2
+Max Height: 384, Min Height: 179.53247
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 680 triangles
+
+Drawing opaque objects
+Drawing buyzones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1135 triangles
+
+Drawing opaque objects
+Drawing buyzones
+Drawing rescue zones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 2 ----
+
+Sorting map objects within the level
+
+Radar level contains 802 triangles
+
+Drawing opaque objects
+Drawing buyzones
+Drawing rescue zones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 04.0795 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 00.0000 sec
+Total processing time: 05.1616 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.1
+
+Checking VMAP cache
+VMAP cache is still valid
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ cs_platypus
+
+** Argument: -vmapname
+ cs_platypus
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: cs_platypus
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\cs_platypus.vmap
+vmap Name: cs_platypus
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <2406, -644, 56>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, 308>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, 212>
+Processing entity: RadGenDivider, at <-1561.09, 128, 204>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, 196>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, -256>
+Processing entity: RadGenConfig, at <-1557.5652, 112, -156.49449>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, -48>
+Processing entity: RadGenDivider, at <-1561.09, 128, -40>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, -32>
+Processing entity: Buyzone, at <2144, -144, 112>
+Processing entity: Buyzone, at <-1696, -194, -176>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Path, at <-1696, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <1600, -32, -192>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-56, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-64, -608, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <-1312, -640, -128>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-224, -1168, 0>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <576.0001, 352, 288>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1588, 24, -4>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <56, 224, 136>
+Processing mesh: Path, at <-264, 256, 36>
+Processing mesh: Path, at <480.00012, -608, -32>
+Processing mesh: Path, at <984, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <256, -1088, 128>
+Processing mesh: Path, at <72, -1144, 232>
+Processing mesh: Path, at <-64, -680, 204>
+Processing mesh: Path, at <-64, -640, 104>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <1040, -64, 200>
+Processing mesh: Path, at <1248, 0, 128>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-220, 348, -160>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <384, 64, 184>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <872, 104, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <664, -32, 216>
+Processing mesh: Path, at <1024, -288, 216>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Cover, at <1606, -448, 88>
+Processing mesh: Cover, at <1224, -569.99976, 20.000015>
+Processing mesh: Cover, at <1616, 296, 60>
+Processing mesh: Cover, at <1672, 296, 52>
+Processing mesh: Cover, at <1712, 304, 58>
+Processing mesh: Cover, at <1801.3727, 279.02942, 58>
+Processing mesh: Cover, at <1864, 296, 52>
+Processing mesh: Cover, at <1860, 244, 80>
+Processing mesh: Cover, at <1548, 484, 72>
+Processing mesh: Cover, at <1248, 656, 52>
+Processing mesh: Cover, at <1252, 520, 52>
+Processing mesh: Cover, at <1252, 464, 60>
+Processing mesh: Cover, at <768, 256, 24>
+Processing mesh: Cover, at <776, 192, 112>
+Processing mesh: Cover, at <824, 120, 96>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <372, 328, 16>
+Processing mesh: Cover, at <836, 28, 204>
+Processing mesh: Cover, at <127.86864, 349.1402, 160>
+Processing mesh: Cover, at <40, 96, 168>
+Processing mesh: Cover, at <-496, 56, 72>
+Processing mesh: Cover, at <-584, 56, 72>
+Processing mesh: Cover, at <-884, 4, 72>
+Processing mesh: Cover, at <-262, -1164, 52>
+Processing mesh: Cover, at <-298, -930, 66>
+Processing mesh: Cover, at <-4, -384, 228>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Cover, at <1034, -624, 64>
+Processing mesh: Cover, at <1968, -88, 52>
+Processing mesh: Cover, at <-1424, -784, -96>
+Processing mesh: Cover, at <496, 24, -176>
+Processing mesh: Cover, at <608, 24, -176>
+Processing mesh: Cover, at <724, 24, -176>
+Processing mesh: Cover, at <836, 24, -176>
+Processing mesh: Cover, at <156, -792, -204>
+Processing mesh: Cover, at <180, -504, -204>
+Processing mesh: Cover, at <-208, -560, -228>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-976, -496, 80>
+Processing mesh: Cover, at <208, -1584, 80>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Cover, at <384, -1504, 128>
+Processing mesh: Cover, at <288, -1456, 64>
+Processing mesh: Cover, at <704, -1360, 64>
+Processing mesh: Cover, at <880, -1460, 32>
+Processing mesh: Cover, at <932, -1390, 32>
+Processing mesh: Cover, at <926, -1310, 32>
+Processing mesh: Cover, at <846, -1262, 32>
+Processing mesh: Cover, at <-272, -1712, 32>
+Processing mesh: Cover, at <-322, -1760, 32>
+Processing mesh: Path, at <1248, -480, 128>
+Processing mesh: Path, at <704, -608, 200>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-1552, -1004, 304>
+Processing mesh: Cover, at <-1508, -1196, 304>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: RescueZone, at <2406, -644, 56>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <79, -182, -182>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-80, 536, -252>
+Processing mesh: Cover, at <-1312, -1584, 128>
+Processing mesh: Cover, at <1232, -828, 32>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+3 radar levels with a total of 193 objects
+
+Radar level 0: 
+Name: cs_platypus_radar, .txt Name: default
+Max Height: -40, Min Height: -256
+
+Radar level 1: 
+Name: cs_platypus_higher1_radar, .txt Name: higher1
+Max Height: 182.85715, Min Height: -40
+
+Radar level 2: 
+Name: cs_platypus_higher2_radar, .txt Name: higher2
+Max Height: 384, Min Height: 182.85715
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 680 triangles
+
+Drawing opaque objects
+Drawing buyzones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1135 triangles
+
+Drawing opaque objects
+Drawing buyzones
+Drawing rescue zones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 2 ----
+
+Sorting map objects within the level
+
+Radar level contains 298 triangles
+
+Drawing opaque objects
+Drawing buyzones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 04.3375 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 00.0000 sec
+Total processing time: 05.3574 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.1
+
+Checking VMAP cache
+VMAP cache is still valid
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ cs_platypus
+
+** Argument: -vmapname
+ cs_platypus
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: cs_platypus
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\cs_platypus.vmap
+vmap Name: cs_platypus
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <2406, -644, 56>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, 308>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, 212>
+Processing entity: RadGenDivider, at <-1561.09, 128, 204>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, 196>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, -256>
+Processing entity: RadGenConfig, at <-1557.5652, 112, -156.49449>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, -48>
+Processing entity: RadGenDivider, at <-1561.09, 128, -40>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, -32>
+Processing entity: Buyzone, at <2144, -144, 112>
+Processing entity: Buyzone, at <-1696, -194, -176>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Path, at <-1696, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <1600, -32, -192>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-56, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-64, -608, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <-1312, -640, -128>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-224, -1168, 0>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <576.0001, 352, 288>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1588, 24, -4>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <56, 224, 136>
+Processing mesh: Path, at <-264, 256, 36>
+Processing mesh: Path, at <480.00012, -608, -32>
+Processing mesh: Path, at <984, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <256, -1088, 128>
+Processing mesh: Path, at <72, -1144, 232>
+Processing mesh: Path, at <-64, -680, 204>
+Processing mesh: Path, at <-64, -640, 104>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <1040, -64, 200>
+Processing mesh: Path, at <1248, 0, 128>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-220, 348, -160>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <384, 64, 184>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <872, 104, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <664, -32, 216>
+Processing mesh: Path, at <1024, -288, 216>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Cover, at <1606, -448, 88>
+Processing mesh: Cover, at <1224, -569.99976, 20.000015>
+Processing mesh: Cover, at <1616, 296, 60>
+Processing mesh: Cover, at <1672, 296, 52>
+Processing mesh: Cover, at <1712, 304, 58>
+Processing mesh: Cover, at <1801.3727, 279.02942, 58>
+Processing mesh: Cover, at <1864, 296, 52>
+Processing mesh: Cover, at <1860, 244, 80>
+Processing mesh: Cover, at <1548, 484, 72>
+Processing mesh: Cover, at <1248, 656, 52>
+Processing mesh: Cover, at <1252, 520, 52>
+Processing mesh: Cover, at <1252, 464, 60>
+Processing mesh: Cover, at <768, 256, 24>
+Processing mesh: Cover, at <776, 192, 112>
+Processing mesh: Cover, at <824, 120, 96>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <372, 328, 16>
+Processing mesh: Cover, at <836, 28, 204>
+Processing mesh: Cover, at <127.86864, 349.1402, 160>
+Processing mesh: Cover, at <40, 96, 168>
+Processing mesh: Cover, at <-496, 56, 72>
+Processing mesh: Cover, at <-584, 56, 72>
+Processing mesh: Cover, at <-884, 4, 72>
+Processing mesh: Cover, at <-262, -1164, 52>
+Processing mesh: Cover, at <-298, -930, 66>
+Processing mesh: Cover, at <-4, -384, 228>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Cover, at <1034, -624, 64>
+Processing mesh: Cover, at <1968, -88, 52>
+Processing mesh: Cover, at <-1424, -784, -96>
+Processing mesh: Cover, at <496, 24, -176>
+Processing mesh: Cover, at <608, 24, -176>
+Processing mesh: Cover, at <724, 24, -176>
+Processing mesh: Cover, at <836, 24, -176>
+Processing mesh: Cover, at <156, -792, -204>
+Processing mesh: Cover, at <180, -504, -204>
+Processing mesh: Cover, at <-208, -560, -228>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-976, -496, 80>
+Processing mesh: Cover, at <208, -1584, 80>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Cover, at <384, -1504, 128>
+Processing mesh: Cover, at <288, -1456, 64>
+Processing mesh: Cover, at <704, -1360, 64>
+Processing mesh: Cover, at <880, -1460, 32>
+Processing mesh: Cover, at <932, -1390, 32>
+Processing mesh: Cover, at <926, -1310, 32>
+Processing mesh: Cover, at <846, -1262, 32>
+Processing mesh: Cover, at <-272, -1712, 32>
+Processing mesh: Cover, at <-322, -1760, 32>
+Processing mesh: Path, at <1248, -480, 128>
+Processing mesh: Path, at <704, -608, 200>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-1552, -1004, 304>
+Processing mesh: Cover, at <-1508, -1196, 304>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: RescueZone, at <2406, -644, 56>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <79, -182, -182>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-80, 536, -252>
+Processing mesh: Cover, at <-1312, -1584, 128>
+Processing mesh: Cover, at <1232, -828, 32>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+3 radar levels with a total of 193 objects
+
+Radar level 0: 
+Name: cs_platypus_radar, .txt Name: default
+Max Height: -40, Min Height: -256
+
+Radar level 1: 
+Name: cs_platypus_higher1_radar, .txt Name: higher1
+Max Height: 177.87013, Min Height: -40
+
+Radar level 2: 
+Name: cs_platypus_higher2_radar, .txt Name: higher2
+Max Height: 384, Min Height: 177.87013
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 680 triangles
+
+Drawing opaque objects
+Drawing buyzones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1135 triangles
+
+Drawing opaque objects
+Drawing buyzones
+Drawing rescue zones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 2 ----
+
+Sorting map objects within the level
+
+Radar level contains 802 triangles
+
+Drawing opaque objects
+Drawing buyzones
+Drawing rescue zones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 03.7372 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 00.0000 sec
+Total processing time: 04.8178 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.1
+
+Checking VMAP cache
+VMAP cache is still valid
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ cs_platypus
+
+** Argument: -vmapname
+ cs_platypus
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: cs_platypus
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\cs_platypus.vmap
+vmap Name: cs_platypus
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <2406, -644, 56>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, 308>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, 212>
+Processing entity: RadGenDivider, at <-1561.09, 128, 204>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, 196>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, -256>
+Processing entity: RadGenConfig, at <-1557.5652, 112, -156.49449>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, -48>
+Processing entity: RadGenDivider, at <-1561.09, 128, -40>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, -32>
+Processing entity: Buyzone, at <2144, -144, 112>
+Processing entity: Buyzone, at <-1696, -194, -176>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Path, at <-1696, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <1600, -32, -192>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-56, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-64, -608, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <-1312, -640, -128>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-224, -1168, 0>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <576.0001, 352, 288>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1588, 24, -4>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <56, 224, 136>
+Processing mesh: Path, at <-264, 256, 36>
+Processing mesh: Path, at <480.00012, -608, -32>
+Processing mesh: Path, at <984, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <256, -1088, 128>
+Processing mesh: Path, at <72, -1144, 232>
+Processing mesh: Path, at <-64, -680, 204>
+Processing mesh: Path, at <-64, -640, 104>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <1040, -64, 200>
+Processing mesh: Path, at <1248, 0, 128>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-220, 348, -160>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <384, 64, 184>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <872, 104, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <664, -32, 216>
+Processing mesh: Path, at <1024, -288, 216>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Cover, at <1606, -448, 88>
+Processing mesh: Cover, at <1224, -569.99976, 20.000015>
+Processing mesh: Cover, at <1616, 296, 60>
+Processing mesh: Cover, at <1672, 296, 52>
+Processing mesh: Cover, at <1712, 304, 58>
+Processing mesh: Cover, at <1801.3727, 279.02942, 58>
+Processing mesh: Cover, at <1864, 296, 52>
+Processing mesh: Cover, at <1860, 244, 80>
+Processing mesh: Cover, at <1548, 484, 72>
+Processing mesh: Cover, at <1248, 656, 52>
+Processing mesh: Cover, at <1252, 520, 52>
+Processing mesh: Cover, at <1252, 464, 60>
+Processing mesh: Cover, at <768, 256, 24>
+Processing mesh: Cover, at <776, 192, 112>
+Processing mesh: Cover, at <824, 120, 96>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <372, 328, 16>
+Processing mesh: Cover, at <836, 28, 204>
+Processing mesh: Cover, at <127.86864, 349.1402, 160>
+Processing mesh: Cover, at <40, 96, 168>
+Processing mesh: Cover, at <-496, 56, 72>
+Processing mesh: Cover, at <-584, 56, 72>
+Processing mesh: Cover, at <-884, 4, 72>
+Processing mesh: Cover, at <-262, -1164, 52>
+Processing mesh: Cover, at <-298, -930, 66>
+Processing mesh: Cover, at <-4, -384, 228>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Cover, at <1034, -624, 64>
+Processing mesh: Cover, at <1968, -88, 52>
+Processing mesh: Cover, at <-1424, -784, -96>
+Processing mesh: Cover, at <496, 24, -176>
+Processing mesh: Cover, at <608, 24, -176>
+Processing mesh: Cover, at <724, 24, -176>
+Processing mesh: Cover, at <836, 24, -176>
+Processing mesh: Cover, at <156, -792, -204>
+Processing mesh: Cover, at <180, -504, -204>
+Processing mesh: Cover, at <-208, -560, -228>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-976, -496, 80>
+Processing mesh: Cover, at <208, -1584, 80>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Cover, at <384, -1504, 128>
+Processing mesh: Cover, at <288, -1456, 64>
+Processing mesh: Cover, at <704, -1360, 64>
+Processing mesh: Cover, at <880, -1460, 32>
+Processing mesh: Cover, at <932, -1390, 32>
+Processing mesh: Cover, at <926, -1310, 32>
+Processing mesh: Cover, at <846, -1262, 32>
+Processing mesh: Cover, at <-272, -1712, 32>
+Processing mesh: Cover, at <-322, -1760, 32>
+Processing mesh: Path, at <1248, -480, 128>
+Processing mesh: Path, at <704, -608, 200>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-1552, -1004, 304>
+Processing mesh: Cover, at <-1508, -1196, 304>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: RescueZone, at <2406, -644, 56>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <79, -182, -182>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-80, 536, -252>
+Processing mesh: Cover, at <-1312, -1584, 128>
+Processing mesh: Cover, at <1232, -828, 32>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+3 radar levels with a total of 193 objects
+
+Radar level 0: 
+Name: cs_platypus_radar, .txt Name: default
+Max Height: -40, Min Height: -256
+
+Radar level 1: 
+Name: cs_platypus_higher1_radar, .txt Name: higher1
+Max Height: 169.55844, Min Height: -40
+
+Radar level 2: 
+Name: cs_platypus_higher2_radar, .txt Name: higher2
+Max Height: 384, Min Height: 169.55844
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 680 triangles
+
+Drawing opaque objects
+Drawing buyzones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1133 triangles
+
+Drawing opaque objects
+Drawing buyzones
+Drawing rescue zones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 2 ----
+
+Sorting map objects within the level
+
+Radar level contains 804 triangles
+
+Drawing opaque objects
+Drawing buyzones
+Drawing rescue zones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 04.1012 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 00.0000 sec
+Total processing time: 05.1218 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.1
+
+Checking VMAP cache
+Something has changed or this is the first build, rebuilding cache...
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ cs_platypus
+
+** Argument: -vmapname
+ cs_platypus
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: cs_platypus
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\cs_platypus.vmap
+vmap Name: cs_platypus
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <2406, -644, 56>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, 308>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, 212>
+Processing entity: RadGenDivider, at <-1561.09, 128, 204>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, 196>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, -256>
+Processing entity: RadGenConfig, at <-1557.5652, 112, -156.49449>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, -48>
+Processing entity: RadGenDivider, at <-1561.09, 128, -40>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, -32>
+Processing entity: Buyzone, at <2144, -144, 112>
+Processing entity: Buyzone, at <-1696, -194, -176>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Path, at <-1696, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <1600, -32, -192>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-56, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-64, -608, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <-1312, -640, -128>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-224, -1168, 0>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <576.0001, 352, 288>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1588, 24, -4>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <56, 224, 136>
+Processing mesh: Path, at <-264, 256, 36>
+Processing mesh: Path, at <480.00012, -608, -32>
+Processing mesh: Path, at <984, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <256, -1088, 128>
+Processing mesh: Path, at <72, -1144, 232>
+Processing mesh: Path, at <-64, -680, 204>
+Processing mesh: Path, at <-64, -640, 104>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <1040, -64, 200>
+Processing mesh: Path, at <1248, 0, 128>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-220, 348, -160>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <384, 64, 184>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <872, 104, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <664, -32, 216>
+Processing mesh: Path, at <1024, -288, 216>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Cover, at <1606, -448, 88>
+Processing mesh: Cover, at <1224, -569.99976, 20.000015>
+Processing mesh: Cover, at <1616, 296, 60>
+Processing mesh: Cover, at <1672, 296, 52>
+Processing mesh: Cover, at <1712, 304, 58>
+Processing mesh: Cover, at <1801.3727, 279.02942, 58>
+Processing mesh: Cover, at <1864, 296, 52>
+Processing mesh: Cover, at <1860, 244, 80>
+Processing mesh: Cover, at <1548, 484, 72>
+Processing mesh: Cover, at <1248, 656, 52>
+Processing mesh: Cover, at <1252, 520, 52>
+Processing mesh: Cover, at <1252, 464, 60>
+Processing mesh: Cover, at <768, 256, 24>
+Processing mesh: Cover, at <776, 192, 112>
+Processing mesh: Cover, at <824, 120, 96>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <372, 328, 16>
+Processing mesh: Cover, at <836, 28, 204>
+Processing mesh: Cover, at <127.86864, 349.1402, 160>
+Processing mesh: Cover, at <40, 96, 168>
+Processing mesh: Cover, at <-496, 56, 72>
+Processing mesh: Cover, at <-584, 56, 72>
+Processing mesh: Cover, at <-884, 4, 72>
+Processing mesh: Cover, at <-262, -1164, 52>
+Processing mesh: Cover, at <-298, -930, 66>
+Processing mesh: Cover, at <-4, -384, 228>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Cover, at <1034, -624, 64>
+Processing mesh: Cover, at <1968, -88, 52>
+Processing mesh: Cover, at <-1424, -784, -96>
+Processing mesh: Cover, at <496, 24, -176>
+Processing mesh: Cover, at <608, 24, -176>
+Processing mesh: Cover, at <724, 24, -176>
+Processing mesh: Cover, at <836, 24, -176>
+Processing mesh: Cover, at <156, -792, -204>
+Processing mesh: Cover, at <180, -504, -204>
+Processing mesh: Cover, at <-208, -560, -228>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-976, -496, 80>
+Processing mesh: Cover, at <208, -1584, 80>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Cover, at <384, -1504, 128>
+Processing mesh: Cover, at <288, -1456, 64>
+Processing mesh: Cover, at <704, -1360, 64>
+Processing mesh: Cover, at <880, -1460, 32>
+Processing mesh: Cover, at <932, -1390, 32>
+Processing mesh: Cover, at <926, -1310, 32>
+Processing mesh: Cover, at <846, -1262, 32>
+Processing mesh: Cover, at <-272, -1712, 32>
+Processing mesh: Cover, at <-322, -1760, 32>
+Processing mesh: Path, at <1248, -480, 128>
+Processing mesh: Path, at <704, -608, 200>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-1552, -1004, 304>
+Processing mesh: Cover, at <-1508, -1196, 304>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: RescueZone, at <2406, -644, 56>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <79, -182, -182>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-80, 536, -252>
+Processing mesh: Cover, at <-1312, -1584, 128>
+Processing mesh: Cover, at <1232, -828, 32>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+3 radar levels with a total of 193 objects
+
+Radar level 0: 
+Name: cs_platypus_radar, .txt Name: default
+Max Height: -40, Min Height: -256
+
+Radar level 1: 
+Name: cs_platypus_higher1_radar, .txt Name: higher1
+Max Height: 162.07793, Min Height: -40
+
+Radar level 2: 
+Name: cs_platypus_higher2_radar, .txt Name: higher2
+Max Height: 384, Min Height: 162.07793
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 680 triangles
+
+Drawing opaque objects
+Drawing buyzones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1123 triangles
+
+Drawing opaque objects
+Drawing buyzones
+Drawing rescue zones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 2 ----
+
+Sorting map objects within the level
+
+Radar level contains 805 triangles
+
+Drawing opaque objects
+Drawing buyzones
+Drawing rescue zones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 03.7622 sec
+Time to read vmap from disk: 00.0006 sec
+Time to process data from vmap: 06.4503 sec
+Total processing time: 06.8927 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.1
+
+Checking VMAP cache
+Something has changed or this is the first build, rebuilding cache...
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ cs_platypus
+
+** Argument: -vmapname
+ cs_platypus
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: cs_platypus
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\cs_platypus.vmap
+vmap Name: cs_platypus
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <2406, -644, 56>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, 308>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, 212>
+Processing entity: RadGenDivider, at <-1561.09, 128, 204>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, 196>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, -256>
+Processing entity: RadGenConfig, at <-1557.5652, 112, -156.49449>
+Processing entity: RadGenCeiling, at <-1557.3079, 128, -48>
+Processing entity: RadGenDivider, at <-1561.09, 128, -40>
+Processing entity: RadGenFloor, at <-1550.7351, 124.204865, -32>
+Processing entity: Buyzone, at <2144, -144, 112>
+Processing entity: Buyzone, at <-1696, -194, -176>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Path, at <-1696, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <1600, -32, -192>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-56, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-64, -608, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <-1312, -640, -128>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-224, -1168, 0>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <576.0001, 352, 288>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1588, 24, -4>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <56, 224, 136>
+Processing mesh: Path, at <-264, 256, 36>
+Processing mesh: Path, at <480.00012, -608, -32>
+Processing mesh: Path, at <984, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <256, -1088, 128>
+Processing mesh: Path, at <72, -1144, 232>
+Processing mesh: Path, at <-64, -680, 204>
+Processing mesh: Path, at <-64, -640, 104>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <1040, -64, 200>
+Processing mesh: Path, at <1248, 0, 128>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-220, 348, -160>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <384, 64, 184>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <872, 104, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <664, -32, 216>
+Processing mesh: Path, at <1024, -288, 216>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Cover, at <1606, -448, 88>
+Processing mesh: Cover, at <1224, -569.99976, 20.000015>
+Processing mesh: Cover, at <1616, 296, 60>
+Processing mesh: Cover, at <1672, 296, 52>
+Processing mesh: Cover, at <1712, 304, 58>
+Processing mesh: Cover, at <1801.3727, 279.02942, 58>
+Processing mesh: Cover, at <1864, 296, 52>
+Processing mesh: Cover, at <1860, 244, 80>
+Processing mesh: Cover, at <1548, 484, 72>
+Processing mesh: Cover, at <1248, 656, 52>
+Processing mesh: Cover, at <1252, 520, 52>
+Processing mesh: Cover, at <1252, 464, 60>
+Processing mesh: Cover, at <768, 256, 24>
+Processing mesh: Cover, at <776, 192, 112>
+Processing mesh: Cover, at <824, 120, 96>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <372, 328, 16>
+Processing mesh: Cover, at <836, 28, 204>
+Processing mesh: Cover, at <127.86864, 349.1402, 160>
+Processing mesh: Cover, at <40, 96, 168>
+Processing mesh: Cover, at <-496, 56, 72>
+Processing mesh: Cover, at <-584, 56, 72>
+Processing mesh: Cover, at <-884, 4, 72>
+Processing mesh: Cover, at <-262, -1164, 52>
+Processing mesh: Cover, at <-298, -930, 66>
+Processing mesh: Cover, at <-4, -384, 228>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Cover, at <1034, -624, 64>
+Processing mesh: Cover, at <1968, -88, 52>
+Processing mesh: Cover, at <-1424, -784, -96>
+Processing mesh: Cover, at <496, 24, -176>
+Processing mesh: Cover, at <608, 24, -176>
+Processing mesh: Cover, at <724, 24, -176>
+Processing mesh: Cover, at <836, 24, -176>
+Processing mesh: Cover, at <156, -792, -204>
+Processing mesh: Cover, at <180, -504, -204>
+Processing mesh: Cover, at <-208, -560, -228>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-976, -496, 80>
+Processing mesh: Cover, at <208, -1584, 80>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Cover, at <384, -1504, 128>
+Processing mesh: Cover, at <288, -1456, 64>
+Processing mesh: Cover, at <704, -1360, 64>
+Processing mesh: Cover, at <880, -1460, 32>
+Processing mesh: Cover, at <932, -1390, 32>
+Processing mesh: Cover, at <926, -1310, 32>
+Processing mesh: Cover, at <846, -1262, 32>
+Processing mesh: Cover, at <-272, -1712, 32>
+Processing mesh: Cover, at <-322, -1760, 32>
+Processing mesh: Path, at <1248, -480, 128>
+Processing mesh: Path, at <704, -608, 200>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-1552, -1004, 304>
+Processing mesh: Cover, at <-1508, -1196, 304>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: RescueZone, at <2406, -644, 56>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <79, -182, -182>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-80, 536, -252>
+Processing mesh: Cover, at <-1312, -1584, 128>
+Processing mesh: Cover, at <1232, -828, 32>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+3 radar levels with a total of 193 objects
+
+Radar level 0: 
+Name: cs_platypus_radar, .txt Name: default
+Max Height: -40, Min Height: -256
+
+Radar level 1: 
+Name: cs_platypus_higher1_radar, .txt Name: higher1
+Max Height: 162.07793, Min Height: -40
+
+Radar level 2: 
+Name: cs_platypus_higher2_radar, .txt Name: higher2
+Max Height: 384, Min Height: 162.07793
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 680 triangles
+
+Drawing opaque objects
+Drawing buyzones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1118 triangles
+
+Drawing opaque objects
+Drawing buyzones
+Drawing rescue zones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 2 ----
+
+Sorting map objects within the level
+
+Radar level contains 812 triangles
+
+Drawing opaque objects
+Drawing buyzones
+Drawing rescue zones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 03.9609 sec
+Time to read vmap from disk: 00.0006 sec
+Time to process data from vmap: 06.5393 sec
+Total processing time: 06.9700 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.1
+
+Checking VMAP cache
+Something has changed or this is the first build, rebuilding cache...
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ cs_platypus
+
+** Argument: -vmapname
+ cs_platypus
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: cs_platypus
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\cs_platypus.vmap
+vmap Name: cs_platypus
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <2406, -644, 56>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: Buyzone, at <2144, -144, 112>
+Processing entity: Buyzone, at <-1696, -194, -176>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Path, at <-1696, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <1600, -32, -192>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-56, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-64, -608, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <-1312, -640, -128>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-224, -1168, 0>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <576.0001, 352, 288>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1588, 24, -4>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <56, 224, 136>
+Processing mesh: Path, at <-264, 256, 36>
+Processing mesh: Path, at <480.00012, -608, -32>
+Processing mesh: Path, at <984, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <256, -1088, 128>
+Processing mesh: Path, at <72, -1144, 232>
+Processing mesh: Path, at <-64, -680, 204>
+Processing mesh: Path, at <-64, -640, 104>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <1040, -64, 200>
+Processing mesh: Path, at <1248, 0, 128>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-220, 348, -160>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <384, 64, 184>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <872, 104, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <664, -32, 216>
+Processing mesh: Path, at <1024, -288, 216>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Cover, at <1606, -448, 88>
+Processing mesh: Cover, at <1224, -569.99976, 20.000015>
+Processing mesh: Cover, at <1616, 296, 60>
+Processing mesh: Cover, at <1672, 296, 52>
+Processing mesh: Cover, at <1712, 304, 58>
+Processing mesh: Cover, at <1801.3727, 279.02942, 58>
+Processing mesh: Cover, at <1864, 296, 52>
+Processing mesh: Cover, at <1860, 244, 80>
+Processing mesh: Cover, at <1548, 484, 72>
+Processing mesh: Cover, at <1248, 656, 52>
+Processing mesh: Cover, at <1252, 520, 52>
+Processing mesh: Cover, at <1252, 464, 60>
+Processing mesh: Cover, at <768, 256, 24>
+Processing mesh: Cover, at <776, 192, 112>
+Processing mesh: Cover, at <824, 120, 96>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <372, 328, 16>
+Processing mesh: Cover, at <836, 28, 204>
+Processing mesh: Cover, at <127.86864, 349.1402, 160>
+Processing mesh: Cover, at <40, 96, 168>
+Processing mesh: Cover, at <-496, 56, 72>
+Processing mesh: Cover, at <-584, 56, 72>
+Processing mesh: Cover, at <-884, 4, 72>
+Processing mesh: Cover, at <-262, -1164, 52>
+Processing mesh: Cover, at <-298, -930, 66>
+Processing mesh: Cover, at <-4, -384, 228>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Cover, at <1034, -624, 64>
+Processing mesh: Cover, at <1968, -88, 52>
+Processing mesh: Cover, at <-1424, -784, -96>
+Processing mesh: Cover, at <496, 24, -176>
+Processing mesh: Cover, at <608, 24, -176>
+Processing mesh: Cover, at <724, 24, -176>
+Processing mesh: Cover, at <836, 24, -176>
+Processing mesh: Cover, at <156, -792, -204>
+Processing mesh: Cover, at <180, -504, -204>
+Processing mesh: Cover, at <-208, -560, -228>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-976, -496, 80>
+Processing mesh: Cover, at <208, -1584, 80>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Cover, at <384, -1504, 128>
+Processing mesh: Cover, at <288, -1456, 64>
+Processing mesh: Cover, at <704, -1360, 64>
+Processing mesh: Cover, at <880, -1460, 32>
+Processing mesh: Cover, at <932, -1390, 32>
+Processing mesh: Cover, at <926, -1310, 32>
+Processing mesh: Cover, at <846, -1262, 32>
+Processing mesh: Cover, at <-272, -1712, 32>
+Processing mesh: Cover, at <-322, -1760, 32>
+Processing mesh: Path, at <1248, -480, 128>
+Processing mesh: Path, at <704, -608, 200>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-1552, -1004, 304>
+Processing mesh: Cover, at <-1508, -1196, 304>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: RescueZone, at <2406, -644, 56>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <79, -182, -182>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-80, 536, -252>
+Processing mesh: Cover, at <-1312, -1584, 128>
+Processing mesh: Cover, at <1232, -828, 32>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+3 radar levels with a total of 193 objects
+
+Radar level 0: 
+Name: cs_platypus_radar, .txt Name: default
+Max Height: -40, Min Height: -256
+
+Radar level 1: 
+Name: cs_platypus_higher1_radar, .txt Name: higher1
+Max Height: 162.07793, Min Height: -40
+
+Radar level 2: 
+Name: cs_platypus_higher2_radar, .txt Name: higher2
+Max Height: 384, Min Height: 162.07793
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 680 triangles
+
+Drawing opaque objects
+Drawing buyzones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1118 triangles
+
+Drawing opaque objects
+Drawing buyzones
+Drawing rescue zones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 2 ----
+
+Sorting map objects within the level
+
+Radar level contains 812 triangles
+
+Drawing opaque objects
+Drawing buyzones
+Drawing rescue zones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 04.4495 sec
+Time to read vmap from disk: 00.0006 sec
+Time to process data from vmap: 06.9772 sec
+Total processing time: 07.3987 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.1
+
+Checking VMAP cache
+Something has changed or this is the first build, rebuilding cache...
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ cs_platypus
+
+** Argument: -vmapname
+ cs_platypus
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: cs_platypus
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\cs_platypus.vmap
+vmap Name: cs_platypus
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <2406, -644, 56>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: Buyzone, at <2144, -144, 112>
+Processing entity: Buyzone, at <-1696, -194, -176>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Path, at <-1696, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <1600, -32, -192>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-56, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-64, -608, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <-1312, -640, -128>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-224, -1168, 0>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <576.0001, 352, 288>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1588, 24, -4>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <56, 224, 136>
+Processing mesh: Path, at <-264, 256, 36>
+Processing mesh: Path, at <480.00012, -608, -32>
+Processing mesh: Path, at <984, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <256, -1088, 128>
+Processing mesh: Path, at <72, -1144, 232>
+Processing mesh: Path, at <-64, -680, 204>
+Processing mesh: Path, at <-64, -640, 104>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <1040, -64, 200>
+Processing mesh: Path, at <1248, 0, 128>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-220, 348, -160>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <384, 64, 184>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <872, 104, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <664, -32, 216>
+Processing mesh: Path, at <1024, -288, 216>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Cover, at <1606, -448, 88>
+Processing mesh: Cover, at <1224, -569.99976, 20.000015>
+Processing mesh: Cover, at <1616, 296, 60>
+Processing mesh: Cover, at <1672, 296, 52>
+Processing mesh: Cover, at <1712, 304, 58>
+Processing mesh: Cover, at <1801.3727, 279.02942, 58>
+Processing mesh: Cover, at <1864, 296, 52>
+Processing mesh: Cover, at <1860, 244, 80>
+Processing mesh: Cover, at <1548, 484, 72>
+Processing mesh: Cover, at <1248, 656, 52>
+Processing mesh: Cover, at <1252, 520, 52>
+Processing mesh: Cover, at <1252, 464, 60>
+Processing mesh: Cover, at <768, 256, 24>
+Processing mesh: Cover, at <776, 192, 112>
+Processing mesh: Cover, at <824, 120, 96>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <372, 328, 16>
+Processing mesh: Cover, at <836, 28, 204>
+Processing mesh: Cover, at <127.86864, 349.1402, 160>
+Processing mesh: Cover, at <40, 96, 168>
+Processing mesh: Cover, at <-496, 56, 72>
+Processing mesh: Cover, at <-584, 56, 72>
+Processing mesh: Cover, at <-884, 4, 72>
+Processing mesh: Cover, at <-262, -1164, 52>
+Processing mesh: Cover, at <-298, -930, 66>
+Processing mesh: Cover, at <-4, -384, 228>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Cover, at <1034, -624, 64>
+Processing mesh: Cover, at <1968, -88, 52>
+Processing mesh: Cover, at <-1424, -784, -96>
+Processing mesh: Cover, at <496, 24, -176>
+Processing mesh: Cover, at <608, 24, -176>
+Processing mesh: Cover, at <724, 24, -176>
+Processing mesh: Cover, at <836, 24, -176>
+Processing mesh: Cover, at <156, -792, -204>
+Processing mesh: Cover, at <180, -504, -204>
+Processing mesh: Cover, at <-208, -560, -228>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-976, -496, 80>
+Processing mesh: Cover, at <208, -1584, 80>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Cover, at <384, -1504, 128>
+Processing mesh: Cover, at <288, -1456, 64>
+Processing mesh: Cover, at <704, -1360, 64>
+Processing mesh: Cover, at <880, -1460, 32>
+Processing mesh: Cover, at <932, -1390, 32>
+Processing mesh: Cover, at <926, -1310, 32>
+Processing mesh: Cover, at <846, -1262, 32>
+Processing mesh: Cover, at <-272, -1712, 32>
+Processing mesh: Cover, at <-322, -1760, 32>
+Processing mesh: Path, at <1248, -480, 128>
+Processing mesh: Path, at <704, -608, 200>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-1552, -1004, 304>
+Processing mesh: Cover, at <-1508, -1196, 304>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: RescueZone, at <2406, -644, 56>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <79, -182, -182>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-80, 536, -252>
+Processing mesh: Cover, at <-1312, -1584, 128>
+Processing mesh: Cover, at <1232, -828, 32>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+3 radar levels with a total of 193 objects
+
+Radar level 0: 
+Name: cs_platypus_radar, .txt Name: default
+Max Height: -40, Min Height: -256
+
+Radar level 1: 
+Name: cs_platypus_higher1_radar, .txt Name: higher1
+Max Height: 162.07793, Min Height: -40
+
+Radar level 2: 
+Name: cs_platypus_higher2_radar, .txt Name: higher2
+Max Height: 384, Min Height: 162.07793
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 680 triangles
+
+Drawing opaque objects
+Drawing buyzones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1120 triangles
+
+Drawing opaque objects
+Drawing buyzones
+Drawing rescue zones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 2 ----
+
+Sorting map objects within the level
+
+Radar level contains 810 triangles
+
+Drawing opaque objects
+Drawing buyzones
+Drawing rescue zones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 04.4971 sec
+Time to read vmap from disk: 00.0006 sec
+Time to process data from vmap: 07.0377 sec
+Total processing time: 07.4463 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 01/01/0001 00:00:00
+
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.1
+
+Checking VMAP cache
+Something has changed or this is the first build, rebuilding cache...
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ cs_platypus
+
+** Argument: -vmapname
+ cs_platypus
+
+
+---- Game Configuration Values ----
+addon name: cs_platypus
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\cs_platypus.vmap
+vmap Name: cs_platypus
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\cs_platypus\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\cs_platypus\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <2406, -644, 56>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: Buyzone, at <2144, -144, 112>
+Processing entity: Buyzone, at <-1696, -194, -176>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+Processing entity: RescueZone, at <340, -610.375, 81.375>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Path, at <-1696, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <1600, -32, -192>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-56, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-64, -608, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <-1312, -640, -128>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <-224, -1168, 0>
+Processing mesh: Path, at <-1408, -288, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <576.0001, 352, 288>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Path, at <1368.0001, 184.0002, 288>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1588, 24, -4>
+Processing mesh: Path, at <-448, -640, -32>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <56, 224, 136>
+Processing mesh: Path, at <-264, 256, 36>
+Processing mesh: Path, at <480.00012, -608, -32>
+Processing mesh: Path, at <984, -1168, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <256, -1088, 128>
+Processing mesh: Path, at <72, -1144, 232>
+Processing mesh: Path, at <-64, -680, 204>
+Processing mesh: Path, at <-64, -640, 104>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <1040, -64, 200>
+Processing mesh: Path, at <1248, 0, 128>
+Processing mesh: Path, at <1440, 240, 216>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <1340, 244, 204>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-220, 348, -160>
+Processing mesh: Path, at <288.00012, -159.99997, -32>
+Processing mesh: Path, at <824, -704, -32>
+Processing mesh: Path, at <384, 64, 184>
+Processing mesh: Path, at <496, -128, 200>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <-96, 224, 160>
+Processing mesh: Path, at <872, 104, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <656, -8, 320>
+Processing mesh: Path, at <664, -32, 216>
+Processing mesh: Path, at <1024, -288, 216>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-160, 352, 288>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: Cover, at <1606, -448, 88>
+Processing mesh: Cover, at <1224, -569.99976, 20.000015>
+Processing mesh: Cover, at <1616, 296, 60>
+Processing mesh: Cover, at <1672, 296, 52>
+Processing mesh: Cover, at <1712, 304, 58>
+Processing mesh: Cover, at <1801.3727, 279.02942, 58>
+Processing mesh: Cover, at <1864, 296, 52>
+Processing mesh: Cover, at <1860, 244, 80>
+Processing mesh: Cover, at <1548, 484, 72>
+Processing mesh: Cover, at <1248, 656, 52>
+Processing mesh: Cover, at <1252, 520, 52>
+Processing mesh: Cover, at <1252, 464, 60>
+Processing mesh: Cover, at <768, 256, 24>
+Processing mesh: Cover, at <776, 192, 112>
+Processing mesh: Cover, at <824, 120, 96>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <372, 328, 16>
+Processing mesh: Cover, at <836, 28, 204>
+Processing mesh: Cover, at <127.86864, 349.1402, 160>
+Processing mesh: Cover, at <40, 96, 168>
+Processing mesh: Cover, at <-496, 56, 72>
+Processing mesh: Cover, at <-584, 56, 72>
+Processing mesh: Cover, at <-884, 4, 72>
+Processing mesh: Cover, at <-262, -1164, 52>
+Processing mesh: Cover, at <-298, -930, 66>
+Processing mesh: Cover, at <-4, -384, 228>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <-64, -640, 320>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Path, at <1132, -732.00006, 200>
+Processing mesh: Path, at <1008, -508, 200>
+Processing mesh: Cover, at <1034, -624, 64>
+Processing mesh: Cover, at <1968, -88, 52>
+Processing mesh: Cover, at <-1424, -784, -96>
+Processing mesh: Cover, at <496, 24, -176>
+Processing mesh: Cover, at <608, 24, -176>
+Processing mesh: Cover, at <724, 24, -176>
+Processing mesh: Cover, at <836, 24, -176>
+Processing mesh: Cover, at <156, -792, -204>
+Processing mesh: Cover, at <180, -504, -204>
+Processing mesh: Cover, at <-208, -560, -228>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-976, -496, 80>
+Processing mesh: Cover, at <208, -1584, 80>
+Processing mesh: Path, at <-1184, -96, 96>
+Processing mesh: Cover, at <384, -1504, 128>
+Processing mesh: Cover, at <288, -1456, 64>
+Processing mesh: Cover, at <704, -1360, 64>
+Processing mesh: Path, at <1248, -480, 128>
+Processing mesh: Path, at <704, -608, 200>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Cover, at <-1552, -1004, 304>
+Processing mesh: Cover, at <-1508, -1196, 304>
+Processing mesh: Path, at <-1792, -1056, 0>
+Processing mesh: Path, at <2128, -288, 320>
+Processing mesh: RescueZone, at <2406, -644, 56>
+Processing mesh: Cover, at <368, 160, 56>
+Processing mesh: Cover, at <79, -182, -182>
+Processing mesh: Path, at <224, -288, -159.99997>
+Processing mesh: Path, at <-80, 536, -252>
+Processing mesh: Cover, at <-1312, -1584, 128>
+Processing mesh: Cover, at <1232, -828, 32>
+Processing mesh: Cover, at <-317.99994, -1750, 32>
+Processing mesh: Cover, at <-232, -1722, 32>
+Processing mesh: Cover, at <882, -1464, 32>
+Processing mesh: Cover, at <940, -1382, 32>
+Processing mesh: Cover, at <932, -1302, 32>
+Processing mesh: Cover, at <846, -1268, 32>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+3 radar levels with a total of 193 objects
+
+Radar level 0: 
+Name: cs_platypus_radar, .txt Name: default
+Max Height: -40, Min Height: -256
+
+Radar level 1: 
+Name: cs_platypus_higher1_radar, .txt Name: higher1
+Max Height: 162.07793, Min Height: -40
+
+Radar level 2: 
+Name: cs_platypus_higher2_radar, .txt Name: higher2
+Max Height: 384, Min Height: 162.07793
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 680 triangles
+
+Drawing opaque objects
+Drawing buyzones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1120 triangles
+
+Drawing opaque objects
+Drawing buyzones
+Drawing rescue zones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 2 ----
+
+Sorting map objects within the level
+
+Radar level contains 810 triangles
+
+Drawing opaque objects
+Drawing buyzones
+Drawing rescue zones
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 05.3769 sec
+Time to read vmap from disk: 00.0007 sec
+Time to process data from vmap: 08.5473 sec
+Total processing time: 09.0957 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
