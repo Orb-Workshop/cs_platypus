@@ -1,5 +1,0 @@
-import { Instance } from "serverpointentity"
-
-function getRandomInt(max) {
-  return Math.floor(Math.random() * max);
-}

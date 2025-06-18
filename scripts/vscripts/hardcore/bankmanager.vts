@@ -20,4 +20,8 @@
   - 
 
  */
-import { Instance } from "serverpointentity"
+import { Instance } from "cspointscript"
+
+Instance.InitialActivate(() => {
+    Instance.Msg("Bank Manager Initialized!");
+});

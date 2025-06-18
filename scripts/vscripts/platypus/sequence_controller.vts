@@ -1,23 +1,24 @@
-import { Instance } from "serverpointentity"
+import { Instance } from "cspointscript"
 
-function Dump(obj,name=""){
-	Instance.Msg("Dump "+name+":")
-	Instance.Msg(JSON.stringify(Object.keys(obj)))
-	Instance.Msg(JSON.stringify(Object.getOwnPropertyNames(obj)))
+function Dump(obj, name = "") {
+    Instance.Msg("Dump "+name+":");
+    Instance.Msg(JSON.stringify(Object.keys(obj)));
+    Instance.Msg(JSON.stringify(Object.getOwnPropertyNames(obj)));
+    Instance.Msg(JSON.stringify(obj));
 }
 
-function ERR(msg: string): void {
+function ERR(msg) {
     Dump(msg);
 }
 
 const SEQUENCE_LENGTH = 4;
 const COMPLETION_TARGET_RELAY = "power_room.open_doors";
 
-function coinFlip(): boolean {
+function coinFlip() {
     return (Math.random() >= 0.5);
 }
 
-function generate_random_password(): boolean[] {
+function generate_random_password() {
     let password = [];
     for (var i = 0; i < SEQUENCE_LENGTH; i++) {
         password.push(coinFlip());
@@ -25,13 +26,10 @@ function generate_random_password(): boolean[] {
     return password;
 }
 
-function sequence_create(sequence: {successTarget: string,
-                                    failureTarget: string,
-                                    progressTargets:string[]}) {
-    return {...sequence,
-            password: generate_random_password(),
-            success: 0,
-            };
+function sequence_create(sequence) {
+    sequence.password = generate_random_password();
+    sequence.success = 0;
+    return sequence;
 }
 
 let sequences = [
@@ -61,15 +59,13 @@ let sequences = [
     ]}),
 ];
 
-function CHK_IDX(index: number): boolean {
+function CHK_IDX(index) {
     if (index < 0 || index >= sequences.length) {
         ERR("Wrong Index: " + index);
         return false;
     }
     return true;
 }
-
-Dump(sequences);
 
 function sequence_check_completion() {
     let numFailures = sequences.filter((sequence) => {
@@ -81,42 +77,17 @@ function sequence_check_completion() {
     }
 }
 
-function sequence_input(index: number, value: boolean): void {
-    if (!CHK_IDX(index)) return;
-    let sequence = sequences[index];
-    // Password Complete
-    if (sequence.success >= SEQUENCE_LENGTH) return;
-    // Success
-    if (sequence.password[sequence.success] == value) {
-        sequence.success += 1;
-    }
-    // Failure
-    else {
-        sequence.success =  0;
-    }
-    sequence_check_completion();
-}
-
-function turnOffLight(target: string) {
+function turnOffLight(target) {
     Instance.Msg("Turning Off Light... " + target);
     Instance.EntFireBroadcast(target, "skin", 0);
 }
 
-function turnOnLight(target: string) {
+function turnOnLight(target) {
     Instance.Msg("Turning On Light... " + target);
     Instance.EntFireBroadcast(target, "skin", 1);
 }
 
-function sequence_check_completion() {
-    let numFailures = sequences.filter((sequence) => {
-        return (sequence.success != SEQUENCE_LENGTH);
-    });
-    if (numFailures.length == 0) {
-        Dump("Complete! " + COMPLETION_TARGET_RELAY);
-    }
-}
-
-function sequence_clear_lights(index: number) {
+function sequence_clear_lights(index) {
     if (!CHK_IDX(index)) return;
     let sequence = sequences[index];
     turnOffLight(sequence.successTarget);
@@ -126,7 +97,7 @@ function sequence_clear_lights(index: number) {
     });
 }
 
-function sequence_handle_lights(index: number) {
+function sequence_handle_lights(index) {
     if (!CHK_IDX(index)) return;
     let sequence = sequences[index];
     sequence_clear_lights(index);
@@ -143,6 +114,21 @@ function sequence_handle_lights(index: number) {
     }
 }
 
+function sequence_input(index, value) {
+    if (!CHK_IDX(index)) return;
+    let sequence = sequences[index];
+    // Password Complete
+    if (sequence.success >= SEQUENCE_LENGTH) return;
+    // Success
+    if (sequence.password[sequence.success] == value) {
+        sequence.success += 1;
+    }
+    // Failure
+    else {
+        sequence.success =  0;
+    }
+}
+
 function sequence_reset() {
     sequences.forEach((sequence, index) => {
 	sequence.password = generate_random_password();
@@ -151,14 +137,18 @@ function sequence_reset() {
     });
 }
 
-Instance.PublicMethod("EnterUp", (id) => {
-    let index: number = parseInt(id);
+Instance.PublicMethod("EnterUp", /*number*/ (num) => {
+    let index = Number(num) || 0;
     sequence_input(index, true);
+    sequence_handle_lights(index);
+    sequence_check_completion();
 });
 
-Instance.PublicMethod("EnterDown", (id) => {
-    let index: number = parseInt(id);
+Instance.PublicMethod("EnterDown", /*number*/ (num) => {
+    let index = Number(num) || 0;
     sequence_input(index, false);
+    sequence_handle_lights(index);
+    sequence_check_completion();
 });
 
 Instance.PublicMethod("Reset", () => {
