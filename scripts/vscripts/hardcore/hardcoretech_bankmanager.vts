@@ -54,9 +54,6 @@ function Reset() {
 }
 
 
-
-
-
 Instance.InitialActivate(() => {
     Instance.Msg("Bank Manager Initialized!");
 });
